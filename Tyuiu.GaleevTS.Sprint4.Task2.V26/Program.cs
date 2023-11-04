@@ -34,7 +34,7 @@ namespace Tyuiu.GaleevTS.Sprint4.Task2.V26
             int[] array = new int[len];
             for (int i = 0; i <= len - 1; i++)
             {
-                array[i] = rnd.Next(1, 8);
+                array[i] = rnd.Next(1, 9);
             }
 
             Console.WriteLine();
