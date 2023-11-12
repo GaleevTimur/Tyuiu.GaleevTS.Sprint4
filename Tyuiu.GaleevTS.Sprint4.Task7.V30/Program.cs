@@ -16,7 +16,7 @@ namespace Tyuiu.GaleevTS.Sprint4.Task7.V30
             Console.Title = "Спринт №4 | Выполнил: Галеев Т. С. | ИИПб-23-3";
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #4                                                                *");
-            Console.WriteLine("* Тема: Класс Array                                                        *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                  *");
             Console.WriteLine("* Задание №7                                                               *");
             Console.WriteLine("* Вариант #30                                                              *");
             Console.WriteLine("* Выполнил: Галеев Тимур Серикович | ИИПб-23-3                             *");
