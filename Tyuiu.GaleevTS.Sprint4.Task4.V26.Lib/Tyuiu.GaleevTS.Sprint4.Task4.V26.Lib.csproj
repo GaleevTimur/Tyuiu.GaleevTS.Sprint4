@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7D0D5E5-0C5E-425F-A1EF-D15D48FBC6D6}</ProjectGuid>
+    <ProjectGuid>{AD927F22-1EF4-4ACD-A433-F2C41E84C157}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.GaleevTS.Sprint4.Task0.V8.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.GaleevTS.Sprint4.Task0.V8.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.GaleevTS.Sprint4.Task4.V26.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.GaleevTS.Sprint4.Task4.V26.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -39,8 +39,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="tyuiu.cources.programming.interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="tyuiu.cources.programming.interfaces">
       <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
