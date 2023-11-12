@@ -27,7 +27,7 @@ namespace Tyuiu.GaleevTS.Sprint4.Task6.V29
             Console.WriteLine("****************************************************************************");
 
             var season = new string[] { "Весна", "Лето", "Осень", "Зима" };
-            Console.WriteLine("Исходный массив");
+            Console.WriteLine("Исходный массив: ");
             for (int i = 0; i <= season.Length - 1; i++)
             {
                 Console.WriteLine(season[i]);
